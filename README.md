@@ -35,7 +35,7 @@
    ```bash
    git clone https://github.com/Vesoore/Ai_assistant_for_search_movies.git
    
-   cd Ai_assistant_for_search_movies.git
+   cd Ai_assistant_for_search_movies
    ```
 2. **Установка зависимостей**:
    ```bash
